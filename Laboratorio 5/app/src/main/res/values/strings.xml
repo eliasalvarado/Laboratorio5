@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Laboratorio 5</string>
+    <string name="dia_cumple">Jueves</string>
+    <string name="fecha_cumple">07 de julio</string>
+    <string name="nombre_res">The Choice</string>
+    <string name="direccion_res">5ta calle Lote 68 Bosques de Santa Lucia Milpas Altas, Santa Lucia</string>
+    <string name="horario_res">8:30am - 20:00pm</string>
+    <string name="boton_iniciar">Iniciar</string>
+    <string name="boton_detalles">Detalles</string>
+    <string name="terminar_jornada">Terminar jornada</string>
+    <string name="actualizacion">Actualizacion disponible</string>
+    <string name="descargar">Descargar</string>
+    <string name="todo">TODO</string>
+    <string name="ruta">Ruta</string>
+    <string name="iniciar_visita">Iniciar visita</string>
+    <string name="info_adicional">Información Adicional</string>
+    <string name="numero">3045-5525</string>
+    <string name="horario_atencion">Horario de atención</string>
+    <string name="telefono">Teléfono</string>
+    <string name="llamar">Llamar</string>
+
+
+    <string name="prueba">Prueba</string>
+</resources>
